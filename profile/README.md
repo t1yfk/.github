@@ -5,10 +5,14 @@ T1后端云服务也称之为T1云服务（简称TOC），解决开发者开发�
 请发送申请邮件至：wwwanghua@outlook.com
 
 ### 联系
-网站：www.t1ykf.com
-<br>
+网站：dev.t1y.net
+<br />
 邮箱：wwwanghua@outlook.com
-<br>
+<br />
+QQ：422584084
+<br />
+微信：wwwAnghuaWechat
+<br />
 QQ交流群1：671186603
-<br>
+<br />
 QQ交流群2：292846194
